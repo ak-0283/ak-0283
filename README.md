@@ -28,7 +28,7 @@
 <h2 align="left">🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhay-kumar-117b4327b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay kumar" height="30" width="40" /></a>
-<a href="https://discord.gg/users/762235277263241236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whitedevil6960" height="30" width="40" /></a>
+<a href="https://discord.com/users/762235277263241236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whitedevil6960" height="30" width="40" /></a>
 </p>
 
 # 💻 𝐈 𝐂𝐨𝐝𝐞 𝐖𝐢𝐭𝐡:
