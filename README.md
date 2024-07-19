@@ -1,5 +1,5 @@
 ![logo](https://github.com/ak-0283/abhay-demo/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner_20240309_162350_0000.png)
-<h1 align="center">Hi 👋, I'm Abhay Kumar, 🎯 currently i am pursue BCA "2023-2026" from "North Eastern Regional Instituite Of Management" (NERIM) 👍</h1>
+<h1 align="center">Hi 👋, I'm Abhay Kumar, 🎯 currently i am pursuing BCA "2023-2026" from "North Eastern Regional Instituite Of Management" (NERIM) 👍</h1>
 
 
 [![](https://visitcount.itsvg.in/api?id=ak-0283&icon=0&color=0)](https://visitcount.itsvg.in)
