@@ -46,18 +46,16 @@
 </a>
 </p>
 
-# 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
-![ak-0283's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak-0283\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=ff)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=dark&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ak-0283&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ak-0283&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ak-0283&limit=5&theme=react&combine_all_yearly_contributions=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ak-0283&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
 ### ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞:
