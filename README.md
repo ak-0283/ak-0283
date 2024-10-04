@@ -50,10 +50,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[![abhaykumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ak-0283&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/khushsoni00/github-readme-activity-graph)<br><br>
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak-0283&theme=blue_green)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=blue_green)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ak-0283&theme=blue_green&utcOffset=8)
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak-0283&theme=react&hide)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=react&hide)
+[![abhaykumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ak-0283&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ak-0283/github-readme-activity-graph)<br><br>
+
+<!--![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ak-0283&theme=react&hide&utcOffset=8)-->
 
 
 ### 🔝 Top Contributed Repo
