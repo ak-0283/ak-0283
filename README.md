@@ -1,7 +1,7 @@
 ![logo](https://github.com/ak-0283/abhay-demo/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner_20240309_162350_0000.png)
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=45ffaa&size=40&width=900&height=80&lines=Welcome+to+my+GitHub+Profile!;I'm+a+coder" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhay Kumar, 🎯 currently i am pursuing BCA "2023-2026" from "North Eastern Regional Instituite Of Management" (NERIM) 👍</h1>
@@ -70,3 +70,7 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+
+
+<p align="right">(<a href="#top">Back to top⬆️</a>)</p>
