@@ -1,4 +1,9 @@
 ![logo](https://github.com/ak-0283/abhay-demo/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner_20240309_162350_0000.png)
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Coder" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Abhay Kumar, 🎯 currently i am pursuing BCA "2023-2026" from "North Eastern Regional Instituite Of Management" (NERIM) 👍</h1>
 
 
@@ -39,12 +44,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
-</a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
-<p align="left">  
-<a href="https://github.com/ak-0283/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</a>
-</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -59,6 +58,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ak-0283&limit=5&theme=react&combine_all_yearly_contributions=true)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ak-0283&theme=radical&no-frame=true&no-bg=true&margin-w=4)
