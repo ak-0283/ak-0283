@@ -13,17 +13,20 @@
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <h2 align="left">🙋‍♂️ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:</h2>
 <p align="left">
  📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞:- abhay.kr2303@yahoo.com<br>
  ⚡ 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭:- Listen Music<br>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <h2 align="left">⌨️ 𝐓𝐲𝐩𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐥𝐢𝐞:</h2>
 <p align="left">
 <a href="https://monkeytype.com/profile/white_devil12718" target="blank"><img align="center" src="https://styles.redditmedia.com/t5_35u88g/styles/communityIcon_jw2wj4yn5vu81.png" alt="" height="30" width="40" /></a>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <h2 align="left">🧑‍💻 𝐂𝐨𝐝𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐢𝐥𝐞:</h2>
 <p align="left">
@@ -31,6 +34,7 @@
 <a href="https://codeforces.com/profile/Whitedevil2803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="whitedevil2803" height="30" width="40" /></a>
 <a href="https://leetcode.com/white_devil9090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaykumarghy2583" height="30" width="40" /></a>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <h2 align="left">🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞:</h2>
 <p align="left">
@@ -38,6 +42,8 @@
 <a href="https://discord.com/users/762235277263241236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whitedevil6960" height="30" width="40" /></a>
  <a href="https://x.com/AK_2805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whitedevil6960" height="30" width="40" />
 </p>
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 # 💻 𝐈 𝐂𝐨𝐝𝐞 𝐖𝐢𝐭𝐡:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
