@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=45ffaa&size=40&width=900&height=80&lines=Welcome+to+my+GitHub+Profile!;I'm+a+coder" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 <h1 align="center">Hi 👋, I'm Abhay Kumar, 🎯 currently i am pursuing BCA "2023-2026" from "North Eastern Regional Instituite Of Management" (NERIM) 👍</h1>
 
 
@@ -44,6 +46,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
