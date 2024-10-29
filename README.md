@@ -45,22 +45,44 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-# 💻 𝐈 𝐂𝐨𝐝𝐞 𝐖𝐢𝐭𝐡:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
+
+# 💻 Programming Languages :
+![C](https://skillicons.dev/icons?i=c)
+![C](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=html)
+![C](https://skillicons.dev/icons?i=css)
+![C](https://skillicons.dev/icons?i=javascript) 
+
+# Favorite IDE'S/Editors :
+![Visual Studio code](https://skillicons.dev/icons?i=vscode)
+
+# Version Controller :
+![Github](https://skillicons.dev/icons?i=github)
+
+# Others :
+![PostMan](https://skillicons.dev/icons?i=postman)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-# 📊 GitHub Stats:
+# 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> :
 ![](https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak-0283&theme=react&hide)
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=react&hide)
+
+<p align="left">
+  <a href="https://github.com/ak-0283">
+     <img  src="https://github-stats-alpha.vercel.app/api/?username=ak-0283&cc=FFF1FF&tc=333333&ic=488BDA"alt ="Stats"/>
+  </a>
+</p>
+
+<p align="left">
+      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak-0283&theme=algolia"alt="Profile Summary Card"/>
+</p>
+
 [![abhaykumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ak-0283&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ak-0283/github-readme-activity-graph)<br><br>
 
 <!--![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ak-0283&theme=react&hide&utcOffset=8)-->
@@ -76,7 +98,16 @@
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
+
+## Hactoberfest 2024 Badges :
+[![Holopin badges](https://holopin.me/ak0283)](https://holopin.io/@ak0283)
+
 
 ### ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
