@@ -106,7 +106,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 
-# Hactoberfest 2024 Badges :
+# Hacktoberfest 2024 Badges :
 [![Holopin badges](https://holopin.me/ak0283)](https://holopin.io/@ak0283)
 
 
