@@ -55,17 +55,26 @@
 ![C](https://skillicons.dev/icons?i=css)
 ![C](https://skillicons.dev/icons?i=javascript) 
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+
 # Favorite IDE'S/Editors :
 ![Visual Studio code](https://skillicons.dev/icons?i=vscode)
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 
 # Version Controller :
 ![Github](https://skillicons.dev/icons?i=github)
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+
 # Others :
 ![PostMan](https://skillicons.dev/icons?i=postman)
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 # 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> :
 ![](https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -88,6 +97,8 @@
 
 <!--![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ak-0283&theme=react&hide&utcOffset=8)-->
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 
 # 🔝 Top Contributed Repo : 
 ![](https://github-contributor-stats.vercel.app/api?username=ak-0283&limit=5&theme=react&combine_all_yearly_contributions=true)
@@ -95,6 +106,8 @@
 
 # 🏆 GitHub Trophies : 
 ![](https://github-profile-trophy.vercel.app/?username=ak-0283&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 # GSSOC(24) Badges🪶 : 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -106,9 +119,12 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 # Hacktoberfest 2024 Badges :
 [![Holopin badges](https://holopin.me/ak0283)](https://holopin.io/@ak0283)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 
 # ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞 :
