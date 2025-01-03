@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hello! 👋 I'm Abhay Kumar, a BCA student at NERIM, Dibrugarh University.👍<br><br>
-  Contributor Rank #308 @ GSSoC '24 Extd | Postman API Fundamentals Expert | Hacktoberfest '24 | Contributor @ SWoC 5 | WoC 4.0
+<!--   Contributor Rank #308 @ GSSoC '24 Extd | Postman API Fundamentals Expert | Hacktoberfest '24 | Contributor @ SWoC 5 | WoC 4.0 -->
  </h1> 
  
 
