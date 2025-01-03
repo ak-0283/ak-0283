@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=45ffaa&size=40&width=900&height=80&lines=Welcome+to+my+GitHub+Profile!" />
 </p>
 
-<h1 align="center">Hello! 👋 I'm Abhay Kumar, a BCA student at NERIM, Dibrugarh University.👍<br>
+<h1 align="center">Hello! 👋 I'm Abhay Kumar, a BCA student at NERIM, Dibrugarh University.👍<br><br>
   Contributor Rank #308 @ GSSoC '24 Extd | Postman API Fundamentals Expert | Hacktoberfest '24 | Contributor @ SWoC 5 | WoC 4.0
- </h1> <br>
+ </h1> 
  
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
