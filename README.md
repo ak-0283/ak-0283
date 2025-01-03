@@ -1,13 +1,27 @@
 ![logo](https://github.com/ak-0283/abhay-demo/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner_20240309_162350_0000.png)
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=45ffaa&size=40&width=900&height=80&lines=Welcome+to+my+GitHub+Profile!;I'm+a+coder" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=45ffaa&size=40&width=900&height=80&lines=Welcome+to+my+GitHub+Profile!" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<h1 align="center">Hello! 👋 I'm Abhay Kumar, currently pursuing a Bachelor of Computer Applications (BCA) at NERIM under Dibrugarh University. With a passion for technology and problem-solving, I actively contribute to open-source projects🤝 and coding communities. 👍</h1> <br>
+I had the privilege of being a contributor in the GirlScript Summer of Code Extended (GSSoC Extd.) 2024, where I secured a rank of 308. Building on this experience, I have applied to other prestigious open-source programs such as Social Winter of Code (SWoC) and Winter of Code 4.0 (WoC 4.0). 
 
-<h1 align="center">Hi 👋, I'm Abhay Kumar, 🎯 currently i am pursuing BCA "2023-2026" from "North Eastern Regional Instituite Of Management" (NERIM) 👍</h1>
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
+## Open Source Contributions
+I believe in the power of open-source communities. You can check out my contributions on GitHub, and feel free to connect with me if you'd like to collaborate!</h1>
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+## Google Form For Project Admin.
+**(Note: This form is for project admins only.)** <br> <br>
+If you're a project admin, your feedback would mean a lot to me. Kindly take a moment to fill out the form below. This will help me improve my project and ensure I meet your expectations.
+[**Fill out the Google Form**](https://forms.gle/u5YSP23cdqvkpQFWA)
+
+**Thank you for your valuable input!**
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 [![](https://visitcount.itsvg.in/api?id=ak-0283&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -28,14 +42,16 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-# 🧑‍💻 𝐂𝐨𝐝𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 : 
+<!--# 
+🧑‍💻 𝐂𝐨𝐝𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 : 
 <p align="left">
 <a href="https://www.hackerrank.com/profile/abhaykumar_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhaykumarghy201" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Whitedevil2803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="whitedevil2803" height="30" width="40" /></a>
 <a href="https://leetcode.com/white_devil9090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhaykumarghy2583" height="30" width="40" /></a>
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+-->
 
 # 🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 :
 <p align="left">
@@ -44,7 +60,9 @@
  <a href="https://x.com/AK_2805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whitedevil6960" height="30" width="40" />
 </p>
 
+<!--
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 
 
 # 💻 Programming Languages :
@@ -61,6 +79,7 @@
 # Favorite IDE'S/Editors :
 ![Visual Studio code](https://skillicons.dev/icons?i=vscode)
 
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 
@@ -72,18 +91,18 @@
 
 # Others :
 ![PostMan](https://skillicons.dev/icons?i=postman)
-
+-->
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 
 # 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> :
-![](https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak-0283&theme=react&hide)
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=react&hide)
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ak-0283">
      <img  src="https://github-stats-alpha.vercel.app/api/?username=ak-0283&cc=FFF1FF&tc=333333&ic=488BDA"alt ="Stats"/>
   </a>
@@ -91,7 +110,7 @@
 
 <p align="left">
       <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak-0283&theme=algolia"alt="Profile Summary Card"/>
-</p>
+</p> -->
 
 [![abhaykumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ak-0283&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ak-0283/github-readme-activity-graph)<br><br>
 
@@ -100,15 +119,15 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 
-# 🔝 Top Contributed Repo : 
+<!-- # 🔝 Top Contributed Repo : 
 ![](https://github-contributor-stats.vercel.app/api?username=ak-0283&limit=5&theme=react&combine_all_yearly_contributions=true)
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)   -->
 
-# 🏆 GitHub Trophies : 
+<!-- # 🏆 GitHub Trophies : 
 ![](https://github-profile-trophy.vercel.app/?username=ak-0283&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)  -->
 
 # GSSOC(24) Badges🪶 : 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
