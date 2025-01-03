@@ -4,13 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=45ffaa&size=40&width=900&height=80&lines=Welcome+to+my+GitHub+Profile!" />
 </p>
 
-<h1 align="center">Hello! 👋 I'm Abhay Kumar, currently pursuing a Bachelor of Computer Applications (BCA) at NERIM under Dibrugarh University. With a passion for technology and problem-solving, I actively contribute to open-source projects🤝 and coding communities. 👍</h1> <br>
-I had the privilege of being a contributor in the GirlScript Summer of Code Extended (GSSoC Extd.) 2024, where I secured a rank of 308. Building on this experience, I have applied to other prestigious open-source programs such as Social Winter of Code (SWoC) and Winter of Code 4.0 (WoC 4.0). 
+<h1 align="center">Hello! 👋 I'm Abhay Kumar, currently pursuing a Bachelor of Computer Applications (BCA) at NERIM under Dibrugarh University. 👍</h1> <br>
+ 
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## Open Source Contributions
-I believe in the power of open-source communities. You can check out my contributions on GitHub, and feel free to connect with me if you'd like to collaborate!</h1>
+I had the privilege of being a contributor in the GirlScript Summer of Code Extended (GSSoC Extd.) 2024, where I secured a rank of 308. Building on this experience, I have applied to other prestigious open-source programs such as Social Winter of Code (SWoC) and Winter of Code 4.0 (WoC 4.0). I actively contribute to open-source projects🤝 and coding communities. I believe in the power of open-source communities. You can check out my contributions on GitHub, and feel free to connect with me if you'd like to collaborate!</h1>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
