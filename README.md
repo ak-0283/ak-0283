@@ -1,27 +1,28 @@
-![logo](https://github.com/ak-0283/abhay-demo/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner_20240309_162350_0000.png)
+![](https://github.com/ak-0283/ak-0283/raw/main/video-ezgif.com-video-to-gif-converter.gif)
+
+
+<!-- ![logo](https://github.com/ak-0283/abhay-demo/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner_20240309_162350_0000.png)
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com/?color=45ffaa&size=40&width=900&height=80&lines=Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <h1 align="center">Hello! 👋 I'm Abhay Kumar, a BCA student at NERIM, Dibrugarh University.👍<br><br>
-<!--   Contributor Rank #308 @ GSSoC '24 Extd | Postman API Fundamentals Expert | Hacktoberfest '24 | Contributor @ SWoC 5 | WoC 4.0 -->
- </h1> 
- 
+<!--   Contributor Rank #308 @ GSSoC '24 Extd | Postman API Fundamentals Expert | Hacktoberfest '24 | Contributor @ SWoC 5 | WoC 4.0 
+ </h1> -->
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <!-- ## Open Source Contributions
 I had the privilege of being a contributor in the GirlScript Summer of Code Extended (GSSoC Extd.) 2024, where I secured a rank of 308. Building on this experience, I have applied to other prestigious open-source programs such as Social Winter of Code (SWoC) and Winter of Code 4.0 (WoC 4.0). I actively contribute to open-source projects🤝 and coding communities. I believe in the power of open-source communities. You can check out my contributions on GitHub, and feel free to connect with me if you'd like to collaborate!</h1>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif) -->
 
-## Google Form For Project Admin.
+<!--## Google Form For Project Admin.
 **(Note: This form is for project admins only.)** <br> <br>
 If you're a project admin, your feedback would mean a lot to me. Kindly take a moment to fill out the form below. This will help me improve my project and ensure I meet your expectations.
 [**Fill out the Google Form**](https://forms.gle/u5YSP23cdqvkpQFWA)
 
-**Thank you for your valuable input!**
+**Thank you for your valuable input!** -->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
