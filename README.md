@@ -1,4 +1,5 @@
-![](https://github.com/ak-0283/ak-0283/raw/main/video-ezgif.com-video-to-gif-converter.gif)
+![](https://github.com/ak-0283/ak-0283/raw/main/video-ezgif.com-crop.gif)
+
 
 
 <!-- ![logo](https://github.com/ak-0283/abhay-demo/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner_20240309_162350_0000.png)
