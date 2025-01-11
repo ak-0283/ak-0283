@@ -107,7 +107,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 <!-- ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak-0283&theme=react&hide)
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=react&hide)  -->
 
-<!-- <p align="left">
+ <!--<p align="left">
   <a href="https://github.com/ak-0283">
      <img  src="https://github-stats-alpha.vercel.app/api/?username=ak-0283&cc=FFF1FF&tc=333333&ic=488BDA"alt ="Stats"/>
   </a>
