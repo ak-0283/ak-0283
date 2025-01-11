@@ -104,8 +104,8 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak-0283&theme=react&hide)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=react&hide)
+<!-- ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak-0283&theme=react&hide)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=react&hide)  -->
 
 <!-- <p align="left">
   <a href="https://github.com/ak-0283">
