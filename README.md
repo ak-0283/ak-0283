@@ -1,10 +1,10 @@
-![](https://github.com/ak-0283/ak-0283/raw/main/video-ezgif.com-crop.gif)
+<!--![](https://github.com/ak-0283/ak-0283/raw/main/video-ezgif.com-crop.gif)-->
 
 
 
-<!-- ![logo](https://github.com/ak-0283/abhay-demo/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner_20240309_162350_0000.png)
+ ![logo](https://github.com/ak-0283/abhay-demo/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner_20240309_162350_0000.png)
 
-<p>
+<!-- <p>
   <img src="https://readme-typing-svg.herokuapp.com/?color=45ffaa&size=40&width=900&height=80&lines=Welcome+to+my+GitHub+Profile!" />
 </p>
 
