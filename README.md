@@ -4,6 +4,8 @@
 
  ![logo](https://github.com/ak-0283/abhay-demo/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner_20240309_162350_0000.png)
 
+
+
 <!-- <p>
   <img src="https://readme-typing-svg.herokuapp.com/?color=45ffaa&size=40&width=900&height=80&lines=Welcome+to+my+GitHub+Profile!" />
 </p>
@@ -27,8 +29,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-[![](https://visitcount.itsvg.in/api?id=ak-0283&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=your-github-ak-0283&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=your-github-ak-0283&color=40E0D0)
 
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -65,6 +66,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 <a href="https://discord.com/users/762235277263241236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whitedevil6960" height="30" width="40" /></a>
  <a href="https://x.com/AK_2805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whitedevil6960" height="30" width="40" />
 </p>
+  
 
 <!--
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
