@@ -179,4 +179,4 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 
 
-<p align="right">(<a href="#top">Back to top⬆️</a>)</p>
+<p align="right">(<a href="#top">⬆️</a>)</p>
