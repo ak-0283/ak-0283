@@ -27,19 +27,32 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 **Thank you for your valuable input!** -->
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 
 ![](https://komarev.com/ghpvc/?username=your-github-ak-0283&color=40E0D0)
 
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 # 🙋‍♂️ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 : 
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+  
+
 <p align="left">
- 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞:- abhay.kr2303@yahoo.com<br>
- ⚡ 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭:- Listen Music<br>
+🔹 I am a passionate developer and open-source enthusiast, actively contributing to multiple open-source programs.  <br>
+🔹 I have contributed to: <br>
+  &nbsp; &nbsp;&nbsp;- <b>GirlScript Summer of Code GSSoC 2024 Extd. Rank 308</b>  <br>
+  &nbsp; &nbsp;&nbsp;- <b>Social Winter of Code (SWoC) Season 5</b>  <br>
+  &nbsp; &nbsp;&nbsp;- <b>ACWOC 2025</b>   <br>
+🔹 I am also participating as a <b>Mentor in open source</b> to help others grow! 🚀 <br>
+
+
+🎵 **love listening to music!**    <br>
+📚  **reading books!** 
+</p>
+
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -68,7 +81,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 </p>
   
 
-<!--
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 
@@ -80,6 +93,10 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 ![C](https://skillicons.dev/icons?i=html)
 ![C](https://skillicons.dev/icons?i=css)
 ![C](https://skillicons.dev/icons?i=javascript) 
+
+# ⌨️ 𝐓𝐲𝐩𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐥𝐢𝐞 : 
+<p align="left">
+<a href="https://monkeytype.com/profile/white_devil12718" target="blank"><img align="center" src="https://styles.redditmedia.com/t5_35u88g/styles/communityIcon_jw2wj4yn5vu81.png" alt="" height="30" width="40" /></a>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -99,14 +116,30 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 # Others :
 ![PostMan](https://skillicons.dev/icons?i=postman)
--->
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 
 # 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> :
-![](https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=react&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+   <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+   </td>
+  </tr>
+</table>
+
+
+
+
 <!-- ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak-0283&theme=react&hide)
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=react&hide)  -->
 
@@ -120,7 +153,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
       <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak-0283&theme=algolia"alt="Profile Summary Card"/>
 </p> -->
 
-[![abhaykumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ak-0283&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ak-0283/github-readme-activity-graph)<br><br>
+<!-- [![abhaykumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ak-0283&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ak-0283/github-readme-activity-graph)<br><br> -->
 
 <!--![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ak-0283&theme=react&hide&utcOffset=8)-->
 
