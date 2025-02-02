@@ -174,8 +174,8 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ###
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<br /> 
+<!-- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>  -->
 
 
 
