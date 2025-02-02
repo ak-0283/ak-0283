@@ -56,11 +56,11 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-# ⌨️ 𝐓𝐲𝐩𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐥𝐢𝐞 : 
+<!-- # ⌨️ 𝐓𝐲𝐩𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐥𝐢𝐞 : 
 <p align="left">
 <a href="https://monkeytype.com/profile/white_devil12718" target="blank"><img align="center" src="https://styles.redditmedia.com/t5_35u88g/styles/communityIcon_jw2wj4yn5vu81.png" alt="" height="30" width="40" /></a>
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif) -->
 
 <!--# 
 🧑‍💻 𝐂𝐨𝐝𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 : 
