@@ -114,21 +114,18 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 
 # 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> :
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=react&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-   </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  </span>
+  <span>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=react&hide_border=true" alt="GitHub Streak" />
+  </span>
+</div>
+
+<div style="display: flex; justify-content: center; margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 
 
@@ -146,7 +143,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
       <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak-0283&theme=algolia"alt="Profile Summary Card"/>
 </p> -->
 
-<!-- [![abhaykumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ak-0283&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ak-0283/github-readme-activity-graph)<br><br> -->
+ [![abhaykumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ak-0283&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ak-0283/github-readme-activity-graph)<br><br>
 
 <!--![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ak-0283&theme=react&hide&utcOffset=8)-->
 
