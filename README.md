@@ -74,50 +74,40 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 -->
 
 # 🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 :
-<details>
- <summary>Connect</summary>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhay-kumar-117b4327b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay kumar" height="30" width="40" /></a>
 <a href="https://discord.com/users/762235277263241236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whitedevil6960" height="30" width="40" /></a>
  <a href="https://x.com/AK_2805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whitedevil6960" height="30" width="40" />
 </p>
-</details>  
-
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 
 
 # 💻 Programming Languages_Frameworks_Tools:
-<details>
- <summary>Click to view Programming languages</summary>
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" alt="C" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=py"></td>
-   </tr>
- <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></td>
-   <td align="center"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></td>
-  </tr>
-</table>
+
+<img src="https://skillicons.dev/icons?i=c" alt="C" /></td>
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></td>
+<img src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" /></td>
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" /></td>
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></td>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/></td>
+<img src="https://skillicons.dev/icons?i=py"></td>
+<img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></td>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></td>
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></td>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></td>
+
 
 
 # ⌨️ 𝐓𝐲𝐩𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐥𝐢𝐞 : 
 <p align="left">
 <a href="https://monkeytype.com/profile/white_devil12718" target="blank"><img align="center" src="https://styles.redditmedia.com/t5_35u88g/styles/communityIcon_jw2wj4yn5vu81.png" alt="" height="30" width="40" /></a>
 
-</details>
+
 
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
