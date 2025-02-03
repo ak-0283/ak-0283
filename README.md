@@ -101,6 +101,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
     <td align="center"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></td>
     <td align="center"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></td>
     <td align="center"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py"></td>
    </tr>
  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></td>
