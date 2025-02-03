@@ -97,6 +97,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
     <td align="center"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Kaggle_logo.png" alt="Kaggle" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></td>
   </tr>
 </table>
