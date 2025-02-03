@@ -74,12 +74,14 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 -->
 
 # 🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 :
+<details>
+ <summary>Connect</summary>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhay-kumar-117b4327b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay kumar" height="30" width="40" /></a>
 <a href="https://discord.com/users/762235277263241236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whitedevil6960" height="30" width="40" /></a>
  <a href="https://x.com/AK_2805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whitedevil6960" height="30" width="40" />
 </p>
-  
+</details>  
 
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
@@ -87,6 +89,8 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 
 # 💻 Programming Languages_Frameworks_Tools:
+<details>
+ <summary>Click to view Programming languages</summary>
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=c" alt="C" /></td>
@@ -97,7 +101,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
     <td align="center"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Kaggle_logo.png" alt="Kaggle" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></td>
   </tr>
 </table>
@@ -107,7 +111,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 <p align="left">
 <a href="https://monkeytype.com/profile/white_devil12718" target="blank"><img align="center" src="https://styles.redditmedia.com/t5_35u88g/styles/communityIcon_jw2wj4yn5vu81.png" alt="" height="30" width="40" /></a>
 
-
+</details>
 
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
