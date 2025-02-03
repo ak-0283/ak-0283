@@ -86,36 +86,28 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 
 
-# 💻 Programming Languages :
-![C](https://skillicons.dev/icons?i=c)
-![C](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=html)
-![C](https://skillicons.dev/icons?i=css)
-![C](https://skillicons.dev/icons?i=javascript) 
+# 💻 Programming Languages_Frameworks_Tools:
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" alt="C" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></td>
+  </tr>
+</table>
+
 
 # ⌨️ 𝐓𝐲𝐩𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐥𝐢𝐞 : 
 <p align="left">
 <a href="https://monkeytype.com/profile/white_devil12718" target="blank"><img align="center" src="https://styles.redditmedia.com/t5_35u88g/styles/communityIcon_jw2wj4yn5vu81.png" alt="" height="30" width="40" /></a>
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 
-# Favorite IDE'S/Editors :
-![Visual Studio code](https://skillicons.dev/icons?i=vscode)
-
-
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
-
-# Version Controller :
-![Github](https://skillicons.dev/icons?i=github)
-
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
-
-# Others :
-![PostMan](https://skillicons.dev/icons?i=postman)
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
