@@ -96,7 +96,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 <img src="https://github.com/ak-0283/ak-0283/blob/main/Screenshot%202025-02-03%20135743.png" width="60"/></td>
 <img src="https://skillicons.dev/icons?i=py"></td>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" /></td>
-<img src="https://raw.githubusercontent.com/ak-0283/ak-0283/main/DALL%C2%B7E%202025-02-03%2013.49.17%20-%20A%20sleek%2C%20modern%208085%20microprocessor%20icon%20with%20a%20technology-themed%20design.%20The%20icon%20should%20be%20minimalistic%2C%20featuring%20a%20classic%20microchip%20shape%20with%20'8.jpg" alt="8085 Microprocessor" width="50" /></td>
+<img src="https://github.com/ak-0283/ak-0283/blob/main/Screenshot%202025-02-03%20151641.png" alt="8085 Microprocessor" width="50" /></td>
 <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></td>
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
 <img src="https://raw.githubusercontent.com/ak-0283/ak-0283/main/Screenshot2025-02-03113931.png" alt="Kaggle" width="50"/></td>
