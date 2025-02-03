@@ -195,7 +195,8 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 ###
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br /> 
-<!-- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>  -->
+ <img src="https://github.com/ak-0283/ak-0283/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<!-- ![snake gif](https://github.com/ak-0283/ak-0283/blob/output/github-contribution-grid-snake.svg)  -->
 
 
 
