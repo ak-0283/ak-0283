@@ -99,10 +99,15 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
     <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/></td>
+   </tr>
+ <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></td>
+   <td align="center"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></td>
   </tr>
 </table>
 
