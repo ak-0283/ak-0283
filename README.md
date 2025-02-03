@@ -114,7 +114,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 
 # 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> :
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   </span>
@@ -124,14 +124,14 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   </span>
+  <span>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak-0283&theme=react&hide" alt="Repos Per Language" />
+  </span>
+  <span>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=react&hide" alt="Most Commit Language" />
+  </span>
 </div>
 
-
-
-
-
-<!-- ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak-0283&theme=react&hide)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=react&hide)  -->
 
  <!--<p align="left">
   <a href="https://github.com/ak-0283">
