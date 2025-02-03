@@ -99,7 +99,8 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></td>
 <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></td>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></td>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" /></td>
+<img src="" alt="8085 Microprocessor" width="50" /></td>
 
 
 
