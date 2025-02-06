@@ -88,6 +88,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 <details>
  <summary>Click here to view my coding langauges.</summary>
+ <br>
 <img src="https://skillicons.dev/icons?i=c" alt="C" /></td>
 <img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></td>
 <img src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
@@ -163,6 +164,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 <details>
   <summary>Click to view badges</summary>
+ <br>
   <div style='display:flex; align-items:center; gap: 10px;' align='center'>
     <a href="https://gssoc.girlscript.tech/leaderboard">
       <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
@@ -183,7 +185,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 <details>
   <summary>Click to view badge</summary>
-
+ <br>
   [![Holopin badges](https://holopin.me/ak0283)](https://holopin.io/@ak0283)
 
 </details>
