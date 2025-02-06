@@ -86,6 +86,8 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 # 💻 Programming Languages_Frameworks_Tools:
 
+<details>
+ <summary>Click here to view my coding langauges.</summary>
 <img src="https://skillicons.dev/icons?i=c" alt="C" /></td>
 <img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></td>
 <img src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
@@ -101,7 +103,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
 <img src="https://raw.githubusercontent.com/ak-0283/ak-0283/main/Screenshot2025-02-03113931.png" alt="Kaggle" width="50"/></td>
 <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></td>
-
+</details>
 
 # ⌨️ 𝐓𝐲𝐩𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐥𝐢𝐞 : 
 <p align="left">
