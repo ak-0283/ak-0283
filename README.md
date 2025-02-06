@@ -185,8 +185,8 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 <details>
   <summary>Click to view badge</summary>
- <br>
-  [![Holopin badges](https://holopin.me/ak0283)](https://holopin.io/@ak0283)
+ 
+ [![Holopin badges](https://holopin.me/ak0283)](https://holopin.io/@ak0283)
 
 </details>
 
