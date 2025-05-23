@@ -43,7 +43,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 <p align="left">
 🔹 I am a passionate developer and open-source enthusiast, actively contributing to multiple open-source programs.  <br>
 🔹 I have contributed to: <br>
-  &nbsp; &nbsp;&nbsp;- <b>GirlScript Summer of Code GSSoC 2024 Extd. Rank 308</b>  <br>
+  &nbsp; &nbsp;&nbsp;- <b>GirlScript Summer of Code GSSoC 2024 Extd.</b>  <br>
   &nbsp; &nbsp;&nbsp;- <b>Social Winter of Code (SWoC) Season 5</b>  <br>
   &nbsp; &nbsp;&nbsp;- <b>ACWOC 2025</b>   <br>
 🔹 I have participated as a <b>Mentor in open source</b> in JWOC 2025🚀. <br>
