@@ -95,6 +95,8 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 <img src="https://skillicons.dev/icons?i=java" alt="Java" /></td>
 <img src="https://skillicons.dev/icons?i=html" alt="HTML" /></td>
 <img src="https://skillicons.dev/icons?i=css" alt="CSS" /></td>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="bootstrap" width="50"/></td>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="tailwind" width="50"/></td>
 <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></td>
 <img src="https://github.com/ak-0283/ak-0283/blob/main/Screenshot%202025-02-03%20135721.png" width="50"/></td>
 <img src="https://github.com/ak-0283/ak-0283/blob/main/Screenshot%202025-02-03%20135743.png" width="60"/></td>
