@@ -126,13 +126,13 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
     <img src="https://github-readme-stats.vercel.app/api?username=ak-0283&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </span>
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </span>
   <span>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak-0283&theme=react&hide_border=true" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=ak-0283&theme=blue-green&hide_border=false" alt="GitHub Streak" />
   </span>
   <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=react&hide" alt="Most Commit Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=blue-green" alt="Most Commit Language" />
   </span>
 </div>
 
