@@ -132,7 +132,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
     <img src="https://nirzak-streak-stats.vercel.app/?user=ak-0283&theme=blue-green&hide_border=false" alt="GitHub Streak" />
   </span>
   <span>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=blue-green" alt="Most Commit Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=react&hide" alt="Most Commit Language" />
   </span>
 </div>
 
