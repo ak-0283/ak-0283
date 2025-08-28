@@ -123,7 +123,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
  <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ak-0283&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </span>
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
