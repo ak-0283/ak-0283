@@ -109,10 +109,12 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" width="50"/></td>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="express" width="50"/></td>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node" width="50"/></td>
-<img src="https://skillicons.dev/icons?i=py"></td>
+<img src="https://skillicons.dev/icons?i=py" alt="python"></td>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" alt="Streamlit" width="50"/></td>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" width="50"/></td>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" width="50"/></td>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" alt="Streamlit" width="50"/></td>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50"/></td>
+
 
 # ⌨️ 𝐓𝐲𝐩𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐥𝐢𝐞 : 
 <p align="left">
