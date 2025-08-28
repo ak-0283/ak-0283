@@ -103,7 +103,10 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" /></td>
 <img src="https://github.com/ak-0283/ak-0283/blob/main/Screenshot%202025-02-03%20151641.png" alt="8085 Microprocessor" width="50" /></td>
 <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></td>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="firebase" width="50"/></td>
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
+<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Vercel" width="50"/></td>
+ <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="50"/></td>
 <img src="https://raw.githubusercontent.com/ak-0283/ak-0283/main/Screenshot2025-02-03113931.png" alt="Kaggle" width="50"/></td>
 <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></td>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" width="50"/></td>
