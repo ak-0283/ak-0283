@@ -98,14 +98,21 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></td>
 <img src="https://github.com/ak-0283/ak-0283/blob/main/Screenshot%202025-02-03%20135721.png" width="50"/></td>
 <img src="https://github.com/ak-0283/ak-0283/blob/main/Screenshot%202025-02-03%20135743.png" width="60"/></td>
-<img src="https://skillicons.dev/icons?i=py"></td>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" /></td>
 <img src="https://github.com/ak-0283/ak-0283/blob/main/Screenshot%202025-02-03%20151641.png" alt="8085 Microprocessor" width="50" /></td>
 <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></td>
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></td>
 <img src="https://raw.githubusercontent.com/ak-0283/ak-0283/main/Screenshot2025-02-03113931.png" alt="Kaggle" width="50"/></td>
 <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></td>
-
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" width="50"/></td>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="react" width="50"/></td>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" width="50"/></td>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="express" width="50"/></td>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node" width="50"/></td>
+<img src="https://skillicons.dev/icons?i=py"></td>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" width="50"/></td>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" width="50"/></td>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" alt="Streamlit" width="50"/></td>
 
 # ⌨️ 𝐓𝐲𝐩𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐥𝐢𝐞 : 
 <p align="left">
