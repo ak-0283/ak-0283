@@ -180,10 +180,13 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)  -->
 
-# GSSOC(24) Badges🪶 : 
+# Badges 🪶
 
 <details>
   <summary>Click to view badges</summary>
+ 
+# GSSOC(24) Badges🪶 : 
+
  <br>
   <div style='display:flex; align-items:center; gap: 10px;' align='center'>
     <a href="https://gssoc.girlscript.tech/leaderboard">
@@ -196,16 +199,13 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   </div>
-</details>
 
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+<!-- ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif) -->
 
 # Hacktoberfest 2024 Badges 🛠️
 
-<details>
-  <summary>Click to view badge</summary>
- 
  [![Holopin badges](https://holopin.me/ak0283)](https://holopin.io/@ak0283)
 
 </details>
