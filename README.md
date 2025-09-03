@@ -154,7 +154,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
     <img src="https://github-readme-stats.vercel.app/api?username=ak-0283&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </span>
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </span>
   <span>
     <img src="https://nirzak-streak-stats.vercel.app/?user=ak-0283&theme=blue-green&hide_border=false" alt="GitHub Streak" />
