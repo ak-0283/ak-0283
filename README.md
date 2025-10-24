@@ -229,10 +229,17 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 
 # ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞 :
+<details>
+  <summary>✍️ Dev Quote</summary>
+ 
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ###
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br /> 
+
+</details>
+
  <img src="https://github.com/ak-0283/ak-0283/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 <!-- ![snake gif](https://github.com/ak-0283/ak-0283/blob/output/github-contribution-grid-snake.svg)  -->
 
