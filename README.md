@@ -30,7 +30,9 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-ak-0283&color=40E0D0)
-
+<br>
+[![wakatime](https://wakatime.com/badge/user/56c91fcc-658a-4180-9d58-d6499bd0ad80.svg)](https://wakatime.com/@56c91fcc-658a-4180-9d58-d6499bd0ad80)
+<br>
 
 
 
@@ -148,6 +150,13 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 # 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> :
 <details>
  <summary>click here to view github stats</summary>
+ <br>
+<p align="left">    
+      <a href="https://github-readme-stats.vercel.app/api/wakatime?username=ak_0283&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
+          <img alt="Pure's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ak_0283&show_icons=true&layout=compact&theme=tokyonight"
+    media="(prefers-color-scheme: tokyonight)"
+  />
+      </a>
  <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <span>
