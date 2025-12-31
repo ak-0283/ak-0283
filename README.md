@@ -39,6 +39,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 # 🙋‍♂️ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 : 
+<details>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
   
 
@@ -69,6 +70,7 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 📚  **reading books!** 
 </p>
 
+</details>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -90,12 +92,16 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 -->
 
 # 🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 :
+
+<details>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhay-kumar-117b4327b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay kumar" height="30" width="40" /></a>
 <a href="https://discord.com/users/762235277263241236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whitedevil6960" height="30" width="40" /></a>
 <a href="https://x.com/AK_2805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whitedevil6960" height="30" width="40" /></a>
  <a href="https://www.instagram.com/unknown.guy2803?igsh=OWxxamI2dTd1ZTdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whitedevil6960" height="30" width="40" /></a>
 </p>
+
+</details>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
