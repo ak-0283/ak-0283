@@ -7,7 +7,7 @@
 
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=45ffaa&size=40&width=900&height=80&lines=Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=45ffaa&size=40&width=900&height=80&lines=Welcome+To+My+GitHub+Profile!" />
 </p>
 
 <!-- <h1 align="center">Hello! 👋 I'm Abhay Kumar, a BCA student at NERIM, Dibrugarh University.👍<br><br>
