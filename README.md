@@ -30,7 +30,9 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-ak-0283&color=40E0D0)&nbsp;&nbsp;&nbsp;
-[![wakatime](https://wakatime.com/badge/user/56c91fcc-658a-4180-9d58-d6499bd0ad80.svg)](https://wakatime.com/@56c91fcc-658a-4180-9d58-d6499bd0ad80)
+[![wakatime](https://wakatime.com/badge/user/56c91fcc-658a-4180-9d58-d6499bd0ad80.svg)](https://wakatime.com/@56c91fcc-658a-4180-9d58-d6499bd0ad80)&nbsp;&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/ak-0283?label=Followers&style=flat)&nbsp;&nbsp;&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/ak-0283?label=Stars&style=flat)
 
 
 
