@@ -2,7 +2,7 @@
 
 
 
- ![logo](https://github.com/ak-0283/abhay-demo/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner_20240309_162350_0000.png)
+<!--  ![logo](https://github.com/ak-0283/abhay-demo/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner_20240309_162350_0000.png)   -->
 
 
 
