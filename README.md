@@ -95,11 +95,17 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
 # 🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 :
 
 <details>
+  
 <p align="left">
+  
 <a href="https://www.linkedin.com/in/abhay-kumar-117b4327b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay kumar" height="30" width="40" /></a>
+  
 <a href="https://discord.com/users/762235277263241236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="whitedevil6960" height="30" width="40" /></a>
+
 <a href="https://x.com/AK_2805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whitedevil6960" height="30" width="40" /></a>
+
  <a href="https://www.instagram.com/unknown.guy2803?igsh=OWxxamI2dTd1ZTdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whitedevil6960" height="30" width="40" /></a>
+ 
 </p>
 
 </details>
