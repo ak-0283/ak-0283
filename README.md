@@ -173,13 +173,13 @@ If you're a project admin, your feedback would mean a lot to me. Kindly take a m
  <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=ak-0283&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.shion.dev/api?username=ak-0283&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </span>
   <span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-0283&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </span>
   <span>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ak-0283&theme=blue-green&hide_border=false" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=ak-0283&theme=blue-green&hide_border=false" alt="GitHub Streak" />
   </span>
   <span>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-0283&theme=react&hide" alt="Most Commit Language" />
